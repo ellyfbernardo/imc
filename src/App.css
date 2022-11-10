@@ -50,3 +50,14 @@ h2{
     margin-top: 28px;
     color: #FFF;
 }
+
+@media(max-width: 715px){
+    
+h1{
+    font-size: 45px;
+}
+
+.area-input{
+    width: 90%;
+}
+}
